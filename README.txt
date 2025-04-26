@@ -18,7 +18,7 @@
 > What's your company name?
 # App does it's thing
 ```
-5. Looks for outputs in terminal and in the data file
+5. Look for outputs in terminal and in the data file
 
 ## Contributers
 Anthony Antczak and Caio Gentil Corado
