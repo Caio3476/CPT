@@ -1,0 +1,5 @@
+Large(378m2/4071sq ft)
+Small(29m2/308sq ft)
+Huge(+474m2/5102sq ft)
+Tiny(5m2/50sq ft)
+Large(378m2/4071sq ft)
